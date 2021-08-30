@@ -6,7 +6,7 @@ const InputBox = ({ input, setInput }) => {
         <DebounceInput
             type="text"
             name="Photo Search"
-            placeholder="Search for photus"
+            placeholder="Search for photos"
             className="inputBox"
             minLength={3}
             debounceTimeout={300}
