@@ -17,7 +17,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.navbar {
+  margin-top: 0;
+  margin-bottom: 2.2rem;
+  background: #282c34;
+  color: white;
+  font-size: 2rem;
+  padding: 1.2rem 0;
+}
 .inputBox {
   min-width: 30%;
   font-size: x-large;
