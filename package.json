@@ -1,6 +1,6 @@
 {
+  "homepage": "https://profpiyush.github.io/image-search-app",
   "name": "image-search-app",
-  "homepage": "https://profpiyush.github.io/react-image-search-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
